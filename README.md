@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Faku4K2008
+- 👋 Hi, I’m Acu
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning how to make games in Unity (2D/3D)
+- 🌱 I’m currently learning how to make games in Unity (2D/3D) and also learning how to programming in Phyton.
 
 
 <!---
